@@ -1,0 +1,15 @@
+# Keep the public progress repository limited to documentation.
+*.exe
+*.dll
+*.i64
+*.idb
+*.dmp
+*.mempe
+*.pdb
+*.log
+build/
+Release/
+bin/
+obj/
+private/
+runtime/
